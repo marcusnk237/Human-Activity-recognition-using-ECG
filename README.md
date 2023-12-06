@@ -6,6 +6,24 @@ The original dataset : https://physionet.org/content/pulse-transit-time-ppg/1.1.
 After downloading data, we resampled the data to 128 Hz.
 Each signal is segmented into 4 seconds length signals. 
 The final dataset : www.kaggle.com/datasets/marcjuniornkengue/human-activity-recognition-using-ecg
+<a name="readme-top"></a>
+<br />
+<div align="center">
+  <h1 align="center">Human-Activity-recognition-using-ECG</h1>
+
+</div>
+<!-- TABLE OF CONTENTS -->
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-code">About</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
 
 
 ## Acknowledgments
