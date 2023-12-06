@@ -1,11 +1,3 @@
-# Human-Activity-recognition-using-ECG
-The model use the correlation between physical activities and ECG. The activities detected are : Still , Walk and Running. 
-We also used GradCAM++ to highlight the features affected by each activity
-
-The original dataset : https://physionet.org/content/pulse-transit-time-ppg/1.1.0/
-After downloading data, we resampled the data to 128 Hz.
-Each signal is segmented into 4 seconds length signals. 
-The final dataset : www.kaggle.com/datasets/marcjuniornkengue/human-activity-recognition-using-ecg
 <a name="readme-top"></a>
 <br />
 <div align="center">
@@ -25,9 +17,21 @@ The final dataset : www.kaggle.com/datasets/marcjuniornkengue/human-activity-rec
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+The model use the correlation between physical activities and ECG. The activities detected are : Still , Walk and Running. 
+We also used GradCAM++ to highlight the features affected by each activity
+
+
+After downloading data, we resampled the data to 128 Hz.
+Each signal is segmented into 4 seconds length signals. 
+The final dataset : www.kaggle.com/datasets/marcjuniornkengue/human-activity-recognition-using-ecg
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
-
+The original dataset : https://physionet.org/content/pulse-transit-time-ppg/1.1.0/
 The authors of the original article about GRAD-CAM++
 * [Aditya Chattopadhay; Anirban Sarkar; Prantik Howlader; Vineeth N Balasubramanian : Grad-CAM++: Generalized Gradient-Based Visual Explanations for Deep Convolutional Networks](https://doi.org/10.1109/WACV.2018.00097)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
