@@ -9,10 +9,12 @@
   <ol>
     <li>
       <a href="#about-the-code">About</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
+
+    <li>
+      <a href="#built-with">Built With</a>
+    </li>
+      
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -27,6 +29,13 @@ We also used GradCAM++ to highlight the features affected by each activity
 After downloading data, we resampled the data to 128 Hz.
 Each signal is segmented into 4 seconds length signals. 
 The final dataset : www.kaggle.com/datasets/marcjuniornkengue/human-activity-recognition-using-ecg
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+[![Python][Python]][Python-url]
+[![Tensorflow][Tensorflow]][Tensorflow-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
