@@ -38,9 +38,8 @@ The final dataset : www.kaggle.com/datasets/marcjuniornkengue/human-activity-rec
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
-- The original dataset : https://physionet.org/content/pulse-transit-time-ppg/1.1.0/
-- The authors of the original article about GRAD-CAM++
-* [Aditya Chattopadhay; Anirban Sarkar; Prantik Howlader; Vineeth N Balasubramanian : Grad-CAM++: Generalized Gradient-Based Visual Explanations for Deep Convolutional Networks](https://doi.org/10.1109/WACV.2018.00097)
+- The original dataset : [Pulse Transit Time] (https://physionet.org/content/pulse-transit-time-ppg/1.1.0)
+- The authors of the original article about GRAD-CAM++: [Aditya Chattopadhay; Anirban Sarkar; Prantik Howlader; Vineeth N Balasubramanian : Grad-CAM++: Generalized Gradient-Based Visual Explanations for Deep Convolutional Networks](https://doi.org/10.1109/WACV.2018.00097)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
